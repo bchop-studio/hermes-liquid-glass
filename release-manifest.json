@@ -1,0 +1,31 @@
+{
+  "repositoryFiles": [
+    "CONTRIBUTING.md",
+    "LICENSE",
+    "README.md",
+    "VERSION",
+    "assets/hermes-liquid-glass-cover.png",
+    "desktop-plugin/hermes-liquid-glass-packs/plugin.js",
+    "palettes/liquid-glass-palettes.json",
+    "release-manifest.json",
+    "scripts/audit_palettes.py",
+    "scripts/build_release.py",
+    "scripts/generate_plugin.py",
+    "scripts/verify_release.py",
+    "tests/runtime-smoke.mjs",
+    "tests/test_generator.py",
+    "tests/test_palettes.py",
+    "tests/test_release_package.py",
+    "themes/README.md",
+    "themes/contact-sheet.html"
+  ],
+  "archiveFiles": [
+    "LICENSE",
+    "README.md",
+    "VERSION",
+    "assets/hermes-liquid-glass-cover.png",
+    "desktop-plugin/hermes-liquid-glass-packs/plugin.js",
+    "themes/README.md",
+    "themes/contact-sheet.html"
+  ]
+}
