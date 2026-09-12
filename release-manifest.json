@@ -1,8 +1,12 @@
 {
   "repositoryFiles": [
+    ".github/dependabot.yml",
+    ".github/workflows/security-baseline.yml",
+    ".gitignore",
     "CONTRIBUTING.md",
     "LICENSE",
     "README.md",
+    "SECURITY.md",
     "VERSION",
     "assets/hermes-liquid-glass-cover.png",
     "desktop-plugin/hermes-liquid-glass-packs/plugin.js",
